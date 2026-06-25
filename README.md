@@ -1,7 +1,4 @@
 # EternalGrace — Prototype (*Shadow Keep*)
-<div align="center">
-<img src="https://github.com/user-attachments/assets/a0dcb301-bd75-4de7-8baa-02d3bc630f9b" alt="SK_Titlescreen" width = "600"/>  
- </div>
 
 > A third-person **soulslike action prototype** built from the ground up in **Unreal Engine 5 (C++)**.
 > This is the **deliberate, cleaner rebuild** of my first-ever Unreal project — re-engineered from scratch with more experience.
@@ -10,6 +7,11 @@ This repository contains the **C++ gameplay framework** of the prototype. I shar
 
 > **Status — prototype, intentionally unfinished.** This was a solo R&D project: not every system is fully played out. Its value is the **architecture and the engineering decisions on display**, not feature-completeness.
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a0dcb301-bd75-4de7-8baa-02d3bc630f9b" alt="SK_Titlescreen" width = "600"/>  
+ </div>
+
+ 
 ---
 
 ## Where this fits in my development
