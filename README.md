@@ -1,4 +1,7 @@
 # EternalGrace — Prototype (*Shadow Keep*)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a0dcb301-bd75-4de7-8baa-02d3bc630f9b" alt="SK_Titlescreen" width = "600"/>  
+ </div>
 
 > A third-person **soulslike action prototype** built from the ground up in **Unreal Engine 5 (C++)**.
 > This is the **deliberate, cleaner rebuild** of my first-ever Unreal project — re-engineered from scratch with more experience.
@@ -42,6 +45,10 @@ Everything in [`Source/`](Source/) is my own work.
 
 ---
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ccbcaa12-c5d8-4b4d-9d0c-e2d8dca6a0f6" width="600"/>  
+ </div>
+
 ## Engineering highlights
 
 The systems below are the reason this prototype is worth reading — they are exactly the things that the previous (student) version *didn't* do well.
@@ -82,14 +89,9 @@ A local two-player mode (`bIsTwoPlayerModeActivated`, `PlayerClassMap`) with a `
 
 ---
 
-
-## Media
-
-<!-- Add gameplay screenshots / GIFs here, e.g.:
-![Combat](Docs/media/combat.gif)
--->
-
-*Screenshots and gameplay clips to be added.*
+<div align="center">
+<img src="https://github.com/user-attachments/assets/aa529505-15a8-443f-a21a-f2212b8c24cb" alt="SK_Treasure" width="600"/>  
+ </div>
 
 ---
 
