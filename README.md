@@ -1,5 +1,8 @@
 # EternalGrace — Prototype (*Shadow Keep*)
 
+
+🎬 **Gameplay footage:** [https://youtu.be/dwP9lMNThy0](https://youtu.be/4xGL9uxu7Ck)
+
 > A third-person **soulslike action prototype** built from the ground up in **Unreal Engine 5 (C++)**.
 > This is the **deliberate, cleaner rebuild** of my first-ever Unreal project — re-engineered from scratch with more experience.
 
